@@ -1,1 +1,1 @@
-# Change-Image-Size-using-C#
+# Machine vision basics using C#
