@@ -1,0 +1,10 @@
+C:\Users\arioo\source\repos\Rotate\Rotate\bin\Debug\Rotate.exe.config
+C:\Users\arioo\source\repos\Rotate\Rotate\bin\Debug\Rotate.exe
+C:\Users\arioo\source\repos\Rotate\Rotate\bin\Debug\Rotate.pdb
+C:\Users\arioo\source\repos\Rotate\Rotate\obj\Debug\Rotate.csprojAssemblyReference.cache
+C:\Users\arioo\source\repos\Rotate\Rotate\obj\Debug\Rotate.Form1.resources
+C:\Users\arioo\source\repos\Rotate\Rotate\obj\Debug\Rotate.Properties.Resources.resources
+C:\Users\arioo\source\repos\Rotate\Rotate\obj\Debug\Rotate.csproj.GenerateResource.cache
+C:\Users\arioo\source\repos\Rotate\Rotate\obj\Debug\Rotate.csproj.CoreCompileInputs.cache
+C:\Users\arioo\source\repos\Rotate\Rotate\obj\Debug\Rotate.exe
+C:\Users\arioo\source\repos\Rotate\Rotate\obj\Debug\Rotate.pdb
