@@ -1,0 +1,10 @@
+C:\Users\arioo\source\repos\Merge\Merge\bin\Debug\Merge.exe.config
+C:\Users\arioo\source\repos\Merge\Merge\bin\Debug\Merge.exe
+C:\Users\arioo\source\repos\Merge\Merge\bin\Debug\Merge.pdb
+C:\Users\arioo\source\repos\Merge\Merge\obj\Debug\Merge.csprojAssemblyReference.cache
+C:\Users\arioo\source\repos\Merge\Merge\obj\Debug\Merge.Form1.resources
+C:\Users\arioo\source\repos\Merge\Merge\obj\Debug\Merge.Properties.Resources.resources
+C:\Users\arioo\source\repos\Merge\Merge\obj\Debug\Merge.csproj.GenerateResource.cache
+C:\Users\arioo\source\repos\Merge\Merge\obj\Debug\Merge.csproj.CoreCompileInputs.cache
+C:\Users\arioo\source\repos\Merge\Merge\obj\Debug\Merge.exe
+C:\Users\arioo\source\repos\Merge\Merge\obj\Debug\Merge.pdb
