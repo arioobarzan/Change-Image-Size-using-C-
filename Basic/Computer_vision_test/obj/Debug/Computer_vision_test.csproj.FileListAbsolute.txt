@@ -1,0 +1,10 @@
+C:\Users\arioo\source\repos\Computer_vision_test\Computer_vision_test\bin\Debug\Computer_vision_test.exe.config
+C:\Users\arioo\source\repos\Computer_vision_test\Computer_vision_test\bin\Debug\Computer_vision_test.exe
+C:\Users\arioo\source\repos\Computer_vision_test\Computer_vision_test\bin\Debug\Computer_vision_test.pdb
+C:\Users\arioo\source\repos\Computer_vision_test\Computer_vision_test\obj\Debug\Computer_vision_test.csprojAssemblyReference.cache
+C:\Users\arioo\source\repos\Computer_vision_test\Computer_vision_test\obj\Debug\Computer_vision_test.Form1.resources
+C:\Users\arioo\source\repos\Computer_vision_test\Computer_vision_test\obj\Debug\Computer_vision_test.Properties.Resources.resources
+C:\Users\arioo\source\repos\Computer_vision_test\Computer_vision_test\obj\Debug\Computer_vision_test.csproj.GenerateResource.cache
+C:\Users\arioo\source\repos\Computer_vision_test\Computer_vision_test\obj\Debug\Computer_vision_test.csproj.CoreCompileInputs.cache
+C:\Users\arioo\source\repos\Computer_vision_test\Computer_vision_test\obj\Debug\Computer_vision_test.exe
+C:\Users\arioo\source\repos\Computer_vision_test\Computer_vision_test\obj\Debug\Computer_vision_test.pdb
